@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="ol_radiobutton">Olá RadioButton</string>
+    <string name="ol_checkbox">Olá CheckBox</string>
+    <string name="welcome_imc">IMC</string>
+    <string name="insira_seu_peso_em_kg">Peso (ex: 70,00kg)</string>
+    <string name="insira_sua_altura"> altura (ex: 1,71m)</string>
+    <string name="calcular_imc">Calcular IMC</string>
+</resources>
